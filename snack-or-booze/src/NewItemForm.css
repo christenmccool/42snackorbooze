@@ -1,0 +1,17 @@
+.NewItemForm {
+  background-color: #101010d1;
+}
+
+.NewItemForm h1{
+  padding: 30px 40px 0 40px;
+  font-size: 30px;
+}
+
+.NewItemForm-form {
+  margin: 10px;
+  padding: 40px;
+}
+
+.NewItemForm-form button{
+  margin-top: 40px;
+}

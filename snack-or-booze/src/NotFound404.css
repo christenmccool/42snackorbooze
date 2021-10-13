@@ -1,0 +1,12 @@
+.NotFound404 {
+  text-align: center;
+  background-color: #101010d1;
+  width: 75%;
+  padding: 50px;
+}
+
+.NotFound404 h1{
+  padding: 30px 40px 0 40px;
+  font-size: 30px;
+}
+
